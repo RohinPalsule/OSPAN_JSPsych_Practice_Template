@@ -15,7 +15,7 @@ Make sure you have the following files open in your code editor:
 
 ### Room Builder File (`static/rooms/`)
 - `room_maker.js`  
-  Defines and generates room layouts or environments.
+  Defines functions used in this task.
 
 ## Checking Your Progress
 
